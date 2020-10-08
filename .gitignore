@@ -1,0 +1,9 @@
+build
+.DS_Store
+/node_modules/
+/src/node_modules/@sapper/
+yarn.lock
+yarn-error.log
+/__sapper__/
+/package-lock.json/
+dist
